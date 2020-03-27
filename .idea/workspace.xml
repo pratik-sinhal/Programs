@@ -2,71 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cae1bf7-a5cd-4183-b116-3f5ca5a16a34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/behavioral/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/behavioral/Observer.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/structural/Adapter.drawio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/structural/Composite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/structural/Proxy.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TIJ.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIJ.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/Blocker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/NotifyVsNotifyAll$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/NotifyVsNotifyAll.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/RTTI/exercise8n9/AllClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/RTTI/exercise8n9/TestAllClasses.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/Task2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example1/CaptureUncaughtException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example1/ExceptionThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example1/MyUncaugthExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example11/SynchronizedClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example11/Task.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example11/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example12/AtomicityTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example12/TestClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/example12/TestClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise1/PrintMessageTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise2/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise2/Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise21/Runnable1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise21/Runnable2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise21/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise5/FibonacciWithResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise5/Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise6/ExecuteTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/concurrency/exercise6/SleepingTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise11n12/New.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise11n12/TestNew.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise2/Holder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise25/Clazz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise25/GenericMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise25/IOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise25/ITwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise25/TestGenericMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise3/SixTuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise4/Selector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise4/Sequence$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise4/Sequence$SequenceSelector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise4/Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise9n10/GenericMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/generics/exercise9n10/TestGenericMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise15/Sample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise15/SecondClass$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise15/SecondClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise18/Outer$NestedClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise18/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise20/StaticClassInterface$Static.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise20/StaticClassInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise3n4n5n8/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise3n4n5n8/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise9/InterfaceOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise9/Outer$1Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/innerClasses/exercise9/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/behavioral/ChainOfResponsibility.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/behavioral/ChainOfResponsibility.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/behavioral/Observer.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/behavioral/Observer.drawio" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DesignPatterns/behavioral/ChainOfResponsibility.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/behavioral/ChainOfResponsibility.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/behavioral/Observer Pattern.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/structural/Adapter Pattern.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/structural/Facade.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/structural/Facade.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProducerConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/behavioral/Observer.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/behavioral/Observer.drawio" afterDir="false" />
     </list>
     <ignored path="TIJ.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -103,11 +43,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DesignPatterns/behavioral/Strategy.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DesignPatterns/behavioral/State.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="88">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BlockingQueueBQ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/concurrency/example11/Task.java" />
         <option value="$PROJECT_DIR$/src/concurrency/example11/SynchronizedClass.java" />
         <option value="$PROJECT_DIR$/src/innerClasses/exercise9/package-info.java" />
         <option value="$PROJECT_DIR$/src/innerClasses/exercise9/Outer.java" />
@@ -187,15 +147,16 @@
         <option value="$PROJECT_DIR$/src/ProducerConsumer1.java" />
         <option value="$PROJECT_DIR$/src/ProducerConsumer.java" />
         <option value="$PROJECT_DIR$/src/BlockingQueue.java" />
+        <option value="$PROJECT_DIR$/src/DesignPatterns/behavioral/Strategy.java" />
         <option value="$PROJECT_DIR$/src/BlockingQueueBQ.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="-6" />
+    <option name="y" value="-6" />
+    <option name="width" value="1293" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -206,51 +167,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="structural" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -263,7 +179,7 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../My-Project/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apm-template/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -461,10 +377,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991453" visible="true" weight="0.16204691" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991453" weight="0.068016194" />
       <window_info id="Structure" order="1" sideWeight="0.50085473" side_tool="true" weight="0.27771854" />
       <window_info id="Image Layers" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -481,11 +396,12 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.15555556" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.13522267" weight="0.35185185" />
       <window_info anchor="bottom" id="Application Servers" order="9" />
       <window_info anchor="bottom" id="Changes" order="10" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3314978" />
       <window_info anchor="bottom" id="JProfiler" order="12" />
+      <window_info anchor="bottom" id="Run" order="13" sideWeight="0.8647773" weight="0.73333335" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -495,9 +411,8 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Properties" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Run" order="9" weight="0.5020243" />
-      <window_info anchor="right" id="Maven" order="10" />
-      <window_info anchor="right" id="Codota" order="11" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Codota" order="10" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991453" visible="true" weight="0.20728745" />
@@ -719,16 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlockingQueueBQ.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -755,8 +660,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DesignPatterns/behavioral/Strategy.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignPatterns/behavioral/State.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BlockingQueueBQ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
