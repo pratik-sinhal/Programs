@@ -23,23 +23,25 @@ public class HashMap<K,V> {
         this.capacity = DEFAULT_INITIAL_CAPACITY;
     }
 
+    public HashMap(int initialCapacity) {
+        this(initialCapacity, DEFAULT_LOAD_FACTOR);
+    }
+
     public HashMap(int initialCapacity, float loadFactor) {
         if(initialCapacity < 0)
             throw new IllegalArgumentException("Illegal initial capacity: "+ initialCapacity);
 
-        if(initialCapacity > MAXIMUM_CAPACITY)
-            initialCapacity = MAXIMUM_CAPACITY;
-
         if(loadFactor <= 0 || Float.isNaN(loadFactor))
             throw new IllegalArgumentException("Illegal load factor: " + loadFactor);
+
+        if(initialCapacity > MAXIMUM_CAPACITY) {
+            initialCapacity = MAXIMUM_CAPACITY;
+        }
+
 
         this.loadFactor = loadFactor;
         this.capacity = initialCapacity;
         //this.threshHold =
-    }
-
-    public HashMap(int initialCapacity) {
-        this(initialCapacity, DEFAULT_LOAD_FACTOR);
     }
 
     public boolean isEmpty() {
@@ -134,7 +136,7 @@ public class HashMap<K,V> {
             this.next = next;
         }
 
-        public int hashCode() {
+        /*public int hashCode() {
             return Objects.hashCode(key) ^ Objects.hashCode(value);
         }
 
@@ -146,7 +148,7 @@ public class HashMap<K,V> {
                     return true;
             }
             return false;
-        }
+        }*/
     }
 
 

@@ -5,7 +5,9 @@ class Singleton
     private static final long serialVersionUID = 1L;
 
     private Singleton() {
-        throw new IllegalStateException("instance already created");
+        if(InstanceHolder.instance != null) {
+            throw new IllegalStateException("instance already created");
+        }
     }
 
     private static class InstanceHolder {

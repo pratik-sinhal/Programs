@@ -1,0 +1,37 @@
+REQUIREMENTS:
+
+#. There can be multiple restaurants. Each restaurant can have multiple floors. Each floor can have multiple tables
+#. Each table can have multiple types different booking price
+#. System should show all available restaurants and should show all available tables in it
+#. System should allow restaurant search
+#. System should support booking for specially abled people.
+#. Booking can be online as well as walk in
+#. Customers can pay online or during walkin
+#. Customers can pay via both cash and credit card
+#. System should not allow bookings for more than the available tables. Should show message
+#. System should not allow multiple booking of the same table
+#. Table booked online can also be cancelled
+#. System should allow modifying table rates
+
+
+MAIN ACTORS:
+
+1. System
+2. Customer
+3. Admin
+
+
+MAIN USE CASES:
+
+1. Add/Remove/Modify restaurants
+2. Add/Remove/Modify restaurant floors & tables
+3. Search restaurant
+4. Book a table
+5. Cancel a table
+6. Payment mode
+7. Actual Payment - cash or card
+8. Invoice/Msg/Email/Notification
+9. Register a new user to the system
+
+
+
