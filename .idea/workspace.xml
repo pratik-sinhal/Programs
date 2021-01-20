@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cae1bf7-a5cd-4183-b116-3f5ca5a16a34" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/RecurringDecimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/creational/Singleton$InstanceHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/creational/Singleton$InstanceHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/creational/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/DesignPatterns/creational/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/HashMap$Entry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/HashMap$Entry.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TIJ/HashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TIJ/HashMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignPatterns/creational/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPatterns/creational/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graph.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TIJ/RecurringDecimal.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +24,7 @@
         <option value="package-info" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -86,7 +80,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecurringDecimal">
+  <component name="RunManager" selected="Application.GreyCode">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -139,10 +133,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddEvenGenerator2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OddEvenGenerator2" />
+    <configuration name="GreyCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GreyCode" />
       <module name="TIJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodReference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.MethodReference" />
+      <module name="TIJ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,10 +163,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8.Test" />
       <module name="TIJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -167,20 +181,6 @@
       <option name="MAIN_CLASS_NAME" value="Test2" />
       <module name="TIJ" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestLogger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Designs.Logger.TestLogger" />
-      <module name="TIJ" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Designs.Logger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -209,18 +209,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RecurringDecimal" />
-      <item itemvalue="Application.TestLogger" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.OddEvenGenerator2" />
       <item itemvalue="Application.Test2" />
+      <item itemvalue="Application.MethodReference" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.GreyCode" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RecurringDecimal" />
+        <item itemvalue="Application.GreyCode" />
         <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.OddEvenGenerator2" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.TestLogger" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.MethodReference" />
+        <item itemvalue="Application.RecurringDecimal" />
       </list>
     </recent_temporary>
   </component>
@@ -236,15 +236,6 @@
       <updated>1428477384614</updated>
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -279,21 +270,6 @@
           <url>file://$PROJECT_DIR$/src/OddEvenGenerator.java</url>
           <line>10</line>
           <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RecurringDecimal.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RecurringDecimal.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RecurringDecimal.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="66" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
