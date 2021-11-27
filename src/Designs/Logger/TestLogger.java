@@ -1,19 +1,19 @@
 package Designs.Logger;
 
-import Designs.Logger.Entities.ConsoleLogging;
-import Designs.Logger.Entities.FileLogging;
-import Designs.Logger.Entities.Logger;
-import Designs.Logger.EnumsAndConstants.LogLevel;
+import Designs.Logger.ApplicationClasses.ConsoleLogging;
+import Designs.Logger.ApplicationClasses.FileLogging;
+import Designs.Logger.ApplicationClasses.Logger;
+import Designs.Logger.ApplicationClasses.Observer;
+import Designs.Logger.Constants.LogLevel;
 
 public class TestLogger {
     public static void main(String[] args) {
         Logger logger = Logger.getInstance();
-        ConsoleLogging consoleLogging = new ConsoleLogging();
-        FileLogging fileLogging = new FileLogging();
+        Observer consoleLogging = new ConsoleLogging();
+        Observer fileLogging = new FileLogging();
 
         logger.attach(LogLevel.ERROR, consoleLogging);
-        //logger.attach(LogLevel.INFO, fileLogging)
-        logger.writeLog(LogLevel.ERROR, "This is error msg 1");
-
+        logger.attach(LogLevel.INFO, fileLogging);
+        logger.writeLog(LogLevel.INFO, "This is error msg 1");
     }
 }

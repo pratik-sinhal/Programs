@@ -1,6 +1,8 @@
-package Designs.RestaurantReservation.Actors;
+package Designs.BookMyShow.Actors;
 
-public class Person {
+import Designs.RestaurantReservation.Actors.Address;
+
+public class User {
     private int id;
     private String name;
     private Address address;

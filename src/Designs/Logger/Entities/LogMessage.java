@@ -1,6 +1,6 @@
 package Designs.Logger.Entities;
 
-import Designs.Logger.EnumsAndConstants.LogLevel;
+import Designs.Logger.Constants.LogLevel;
 
 public class LogMessage {
     LogLevel level;
